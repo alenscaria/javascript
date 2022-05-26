@@ -23,7 +23,7 @@ function hello(data)
 
 function hey(callback)  // callback=hello
 {
-    callback('Music')  //  hello('AlScaR')
+    callback('Music')  //  hello('Music')
 }
 hey(hello)
 
