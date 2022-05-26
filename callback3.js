@@ -7,7 +7,7 @@ var hello=function(data)
 
 var hey=function(callback)
 {
-    callback('AlScaR')
+    callback('Music')
 }
 hey(hello)
 
@@ -23,7 +23,7 @@ function hello(data)
 
 function hey(callback)  // callback=hello
 {
-    callback('AlScaR')  //  hello('AlScaR')
+    callback('Music')  //  hello('AlScaR')
 }
 hey(hello)
 
