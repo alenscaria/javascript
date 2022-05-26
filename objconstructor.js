@@ -9,8 +9,8 @@ function person(name,age,place)
     }
 }
 
-var Alen=new person("Alen",20,"Kochi")
-var Aleena=new person("Aleena",18,"kollam")
+var Gru=new person("Gru",20,"California")
+var Gopi=new person("Gopi",18,"Canada")
 
-Alen.display()
-Aleena.display()
+Gru.display()
+Gopi.display()
