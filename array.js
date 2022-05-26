@@ -1,4 +1,4 @@
-var s=["alen","scaria","antony"]
+var s=["mathew","john","antony"]
 
 s.push("angel")
 console.log(s)
