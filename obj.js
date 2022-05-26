@@ -1,4 +1,4 @@
-var person={name:"Alen",age:21,place:"Kottayam",display:function()
+var person={name:"Jake",age:25,place:"Kenya",display:function()
 {
     console.log("inside func"+this.name)
 }}
@@ -8,7 +8,7 @@ console.log(person['age'])
 
 console.log(" ")
 
-person.name="Aleena"
+person.name="Max"
 for (x in person)
 {
     console.log(x)
